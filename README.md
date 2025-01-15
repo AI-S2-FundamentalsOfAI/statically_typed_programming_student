@@ -1,0 +1,1 @@
+# statically_typed_programming_student
