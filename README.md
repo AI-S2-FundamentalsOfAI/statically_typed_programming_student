@@ -13,7 +13,7 @@ https://canvas.hu.nl/courses/44855/assignments/328074
 ## Code draaien
 Gebruik voor deze opdracht CLion met CMake, als je geen CMake bestand hebt kan je deze aanmaken m.b.v. CLion of handmatig. Voor Windows ziet dit er bijvoorbeeld zo uit:
 
-**CMakeLists.txt: **
+**CMakeLists.txt:**
 ```
 cmake_minimum_required(VERSION 3.30)
 project(statically_typed_programming_<studentnaam>)
