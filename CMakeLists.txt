@@ -1,13 +1,12 @@
 
 
 cmake_minimum_required(VERSION 3.30)
-project(PROJECT_NAAM)
+project(statically_typed_programming)
 
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CXX_EXTENSIONS OFF)
 
-add_executable(PROJECT_NAAM
+add_executable(statically_typed_programming
     main.cpp)
 
 
