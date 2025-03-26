@@ -14,5 +14,4 @@ https://canvas.hu.nl/courses/44855/assignments/328074
 
 
 
-## CMake
-Zorg ervoor dat in je CMakeLists.txt PROJECT_NAAM wordt vervangen door je eigen projectnaam.
+Zet alle functies in een namespace met als naam je voornaam
