@@ -35,3 +35,4 @@ endif()
 add_executable(statically_typed_programming_<studentnaam>
     main.cpp)
 ```
+
